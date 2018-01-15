@@ -1,0 +1,1 @@
+call konanc -Xmulti-platform -target mingw -linkerOpts "-Wl,--subsystem,windows" -opt -o test -entry main ./core ./platform-win

@@ -1,0 +1,1 @@
+expect fun alert(title: String, message: String)
